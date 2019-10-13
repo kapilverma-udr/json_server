@@ -1,5 +1,5 @@
 {"AuthenticateUserResult":{"Cookie":"FedAuth=k8rcH",
-                           "IsSuccess":true,
+                           "IsSuccess":"true",
                            "Message":"something went wrong please try again later.",
                            "Stakeholder":"Career Center",
                            "StatusCode":"200","URL":"https:test.com?U=vD1UMhbD5c%3D",
